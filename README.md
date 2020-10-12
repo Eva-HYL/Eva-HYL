@@ -3,7 +3,7 @@
 ### Languages I use
 
 <p>
-  <img alt="react" src="https://img.shields.io/badge/-react-00ADD8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-React-00ADD8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e2470f?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1b73ba?style=flat-square&logo=css3&logoColor=white" />
