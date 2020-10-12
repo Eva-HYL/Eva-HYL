@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Eva-HYL's github stats](https://github-readme-stats.vercel.app/api?username=Eva-HYL&theme=merko&show_icons=true)
+
+<!-- Thanks for https://github.com/anuraghazra/github-readme-stats -->
+
+
 <!--
 **Eva-HYL/Eva-HYL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
