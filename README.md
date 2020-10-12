@@ -8,7 +8,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e2470f?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1b73ba?style=flat-square&logo=css3&logoColor=white" />
   <img alt="C Programming Language" src="https://img.shields.io/badge/-C%20Programming%20Language-9f62a5?style=flat-square&logo=C&logoColor=white" />
-  <img alt="C #" src="https://img.shields.io/badge/-C#-000000?style=flat-square&logo=C#&logoColor=white" />
+  <img alt="C #" src="https://img.shields.io/badge/-C #-000000?style=flat-square&logo=C&logoColor=white" />
 </p>
 
 ### Tools
